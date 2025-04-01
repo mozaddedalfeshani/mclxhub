@@ -1,7 +1,15 @@
+import Footer from "../components/Footer";
+import NavBar from "../components/NavBar";
+import HomePage from "./home/HomePage";
+
 export default function Home() {
   return (
     <>
-      <h1>Welcome to Next.js!</h1>
+      <div className="container mx-auto px-4 font-sans py-8">
+        <NavBar />
+      </div>
+      <HomePage />
+      <Footer />
     </>
   );
 }
