@@ -55,12 +55,16 @@ const Footer = () => {
 
       {/* Background images */}
 
-      <img
+      <Image
+        width={100}
+        height={100}
         src="https://i.ibb.co/zNk7XT4/Rectangle-97.png"
         alt="background/image"
         className="absolute h-[50px] w-full bottom-[20px] sm:bottom-0 left-0 right-0 z-10 rounded-b-xl"
       />
-      <img
+      <Image
+        width={100}
+        height={100}
         src="https://i.ibb.co/0mp2FwS/Rectangle-95.png"
         alt="background/image"
         className="absolute w-full h-[70px] bottom-0 left-0 right-0 z-10 rounded-b-xl"
