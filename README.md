@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./app/assets/images/mclximage.jpg" alt="Project Icon" height="400">
+  <img src="./app/assets/images/mclxhub.jpg" alt="Project Icon" height="400">
 </p>
 
 This is an open-source MCLXHUb project used for installing apps via the Windows Package Manager. It is designed to simplify app management and is built with NEXTJS
