@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./app/assets/images/mclximage.jpg" alt="Project Icon" height="400">
+  <img src="./app/assets/images/mclxhub.jpg" alt="Project Icon" height="400">
 </p>
 
 # MCLX: Simplified Windows Package Manager (Chocolatey-based)
